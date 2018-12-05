@@ -12,7 +12,8 @@ namespace Cats
         {
             tired,
             playful,
-            hungry
+            hungry,
+            sad
 
         }
 
