@@ -13,7 +13,8 @@ namespace Cats
             tired,
             playful,
             hungry,
-            sad
+            sad,
+            excited
 
         }
 
